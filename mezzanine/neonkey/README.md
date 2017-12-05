@@ -1,8 +1,9 @@
 ---
 title: Documentation for NeonKey
-permalink: /documentation/MezzanineProducts/neonkey/
-redirect_from: /documentation/MezzanineProducts/neonkey/README.md/
+permalink: /documentation/mezzanine/neonkey/
 ---
 ## NeonKey for 96Boards
 
-Coming Soon...
+### Guides
+
+- [AOSP Build Guide](/documentation/mezzanine/neonkey/guides/neonkey-aosp-build.md.html)
